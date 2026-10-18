@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "seed": 42,
+  "story": {
+    "repaired_villages": [
+      21,
+      3,
+      7,
+      29,
+      12
+    ],
+    "dash_unlocked": true,
+    "ancient_keys": 3,
+    "portal_open": true,
+    "keys_bound": true,
+    "boss_defeated": false,
+    "boss_loot_awarded": false,
+    "revision": 6
+  },
+  "boss": {
+    "x": 600.5,
+    "y": 351.5,
+    "health": 103,
+    "max_health": 120,
+    "defeated": false,
+    "state": "sweep_warning",
+    "timer": 0.117,
+    "cooldown": 0.0,
+    "target_x": 599.463,
+    "target_y": 351.195,
+    "leaf_zones": [],
+    "hit_flash": 0.0,
+    "revision": 18,
+    "phase": 1
+  },
+  "islands": {
+    "21": 0,
+    "3": 0,
+    "20": 0,
+    "14": 0,
+    "7": 0,
+    "29": 0,
+    "25": 0,
+    "12": 0
+  }
+}
